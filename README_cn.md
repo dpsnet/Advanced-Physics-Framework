@@ -71,4 +71,4 @@ Advanced-Physics-Framework/       (APF-x)  高级物理框架  [本仓库]
 
 **作者**: 王斌  
 **邮箱**: wang.bin@foxmail.com  
-**项目主页**: [GitHub Repositories]
+**项目主页**: [Advanced-Physics-Framework](https://github.com/dpsnet/Advanced-Physics-Framework)
